@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "/src/assets/doctor1.jpg",
+    "name": "Dr. Addition Smith",
+    "specialty": "Dentist",
+    "email": "Addition@gmail.com",
+    "password": "Addition123"
+  },
+  {
+    "id": 2,
+    "img": "/src/assets/doctor2.jpg",
+    "name": "Dr. Mahfuz Riad",
+    "specialty": "Chiropractor",
+    "email": "Mahfuz@gmail.com",
+    "password": "Mahfuz123"
+  },
+  {
+    "id": 3,
+    "img": "/src/assets/doctor3.jpg",
+    "name": "Dr. David Benjamin",
+    "specialty": "Chiropractor",
+    "email": "David@gmail.com",
+    "password": "David123"
+  },
+  {
+    "id": 4,
+    "img": "/src/assets/doctor4.jpg",
+    "name": "Dr. Bokayo Saka",
+    "specialty": "Dentist",
+    "email": "Bokayo@gmail.com",
+    "password": "Bokayo123"
+  },
+  {
+    "id": 5,
+    "img": "/src/assets/doctor5.jpg",
+    "name": "Dr. Declan Rice",
+    "specialty": "Chiropracto",
+    "email": "Declan@gmail.com",
+    "password": "Declan123"
+  },
+  {
+    "id": 6,
+    "img": "/src/assets/doctor6.jpg",
+    "name": "Dr. Wiliam Saliba",
+    "specialty": "Chiropractor",
+    "email": "Wiliam@gmail.com",
+    "password": "Wiliam123"
+  }
+]
