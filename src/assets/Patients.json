@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "img": "/src/assets/ameeen.jpg",
+    "name": "Ameen Mohamed",
+    "email": "Ameen@gmail.com",
+    "password": "Ameen123"
+  },
+  {
+    "id": 2,
+    "img": "/src/assets/ameeen.jpg",
+    "name": "Jude Bellingham",
+    "specialty": "Chiropractor",
+    "email": "Jude@gmail.com",
+    "password": "Jude123"
+  },
+  {
+    "id": 3,
+    "img": "/src/assets/ameeen.jpg",
+    "name": "Vini JR",
+    "specialty": "Chiropractor",
+    "email": "Vini@gmail.com",
+    "password": "Vini123"
+  }
+]
