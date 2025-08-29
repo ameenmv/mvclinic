@@ -88,7 +88,7 @@ import { useAppointmentStore } from "../Store/index";
 
 export default {
   name: "Doctor",
-  props: ["id"], // استقبل الـ id من الراوتر
+  props: ["id"],
   data() {
     return {
       doctors: Doctors,
